@@ -8,7 +8,8 @@ export default function MyPorfolio() {
           <p className="sub--title">Recent Projects</p>
           <h2 className="section--heading">My Portfolio</h2>
         </div>
-        <div>
+        <div className="btn--decoretion">
+            <a href="https://github.com/AJimenezHolguin" target="_blank" rel="noopener noreferrer">
           <button className="btn btn-github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -26,11 +27,13 @@ export default function MyPorfolio() {
             </svg>
             Visit My GitHub
           </button>
+          </a>
         </div>
       </div>
       <div className="portfolio--section--container">
         {data?.portfolio?.map((item, index) => (
           <div key={index} className="portfolio--section--card">
+            <a href={item.web} target="_blank" rel="noopener noreferrer">
             <div className="portfolio--section--img">
               <img src={item.src} alt="Placeholder" />
             </div>
@@ -40,7 +43,9 @@ export default function MyPorfolio() {
                 <p className="text-md">{item.description}</p>
               </div>
               <p className="text-sm portfolio--link">
+               
                 {item.link}
+               
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -58,6 +63,7 @@ export default function MyPorfolio() {
                 </svg>
               </p>
             </div>
+          </a>
           </div>
         ))}
       </div>

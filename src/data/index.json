@@ -1,79 +1,80 @@
 {
-    "skills": [
-        {
-            "id": "1",
-            "src": "./img/product-chain-1.png",
-            "title":"Front-End",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique"
-        },
-        {
-            "id": "2",
-            "src": "./img/tag-1.png",
-            "title":"Javascript",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique"
-        },
-        {
-            "id": "3",
-            "src": "./img/feather-pen-2.png",
-            "title":"React & Next js",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique"
-        },
-        {
-            "id": "4",
-            "src": "./img/feather-pen-1.png",
-            "title":"Git",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique"
-        }
-    ],
-    "portfolio": [
-        {
-            "id": "1",
-            "src": "./img/placeholder-image.png",
-            "title":"Swape",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "link":"View In Github"
-        },
-        {
-            "id": "2",
-            "src": "./img/placeholder-image-1.png",
-            "title":"Hotels-JS",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "link":"View In Github"
-        },
-        {
-            "id": "3",
-            "src": "./img/placeholder-image-2.png",
-            "title":"Hotels React js",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "link":"View In Github"
-        }
-     
-    ],
-    "testimonial": [
-        {
-            "id": "1",
-            "count":"5",
-            "src": "./img/avatar-image.png",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "author_name": "Dianne Russel",
-            "author_designation": "Starbucks"
-        },
-        {
-            "id": "2",
-            "count":"5",
-            "src": "./img/avatar-image-1.png",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "author_name": "Kristin Watson",
-            "author_designation": "Louis Vuitton"
-        },
-        {
-            "id": "3",
-            "count":"5",
-            "src": "./img/avatar-image-2.png",
-            "description": "lorem ipsum dolor sit amet,consectetor adipiscing elit. ,suspenmdisse varius eim in eros elementum tristique",
-            "author_name": "Kathryn Murphy",
-            "author_designation": "McDonald's"
-        }
-     
-    ]
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Design and development of attractive and functional interfaces, optimizing the user experience on the web."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Javascript",
+      "description": "Programación versátil y dinámica para crear interactividad y funcionalidades avanzadas en aplicaciones web."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "React & Next js",
+      "description": "Efficient and scalable building modern web applications, leveraging React and Next.js for high performance."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Git",
+      "description": "Version management and effective collaboration on projects, ensuring a transparent and efficient workflow."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Swape",
+      "description": "Development of a website, focused on presenting our services in an attractive and functional way.",
+      "web": "https://ajimenezholguin.github.io/Swipe/",
+      "link": "view in Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Hotels-JS",
+      "description": "Construction of an online reservation platform, facilitating hotel reservations and availability in real time.",
+      "web": "https://ajimenezholguin.github.io/Hotels/",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Hotels React js",
+      "description": "Construction of an online reservation platform, facilitating hotel reservations and availability in real time.",
+      "web": "https://hotels-react-next.vercel.app/",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "The website is intuitive and modern, exactly what our company needed to stand out.",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Incredible performance and attractive design; our website now captivates and retains our visitors.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "The web development exceeded our expectations; The functionality and aesthetics improved our online presence significantly.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
 }
