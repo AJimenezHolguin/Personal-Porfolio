@@ -24,12 +24,13 @@
       "title": "Git",
       "description": "Version management and effective collaboration on projects, ensuring a transparent and efficient workflow."
     }
+    
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Swape",
+      "title": "Swipe",
       "description": "Development of a website, focused on presenting our services in an attractive and functional way.",
       "web": "https://ajimenezholguin.github.io/Swipe/",
       "link": "view in Github"
