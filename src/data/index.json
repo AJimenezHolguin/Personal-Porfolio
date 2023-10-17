@@ -29,7 +29,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
+      "src": "./img/swipe.png",
       "title": "Swipe",
       "description": "Development of a website, focused on presenting our services in an attractive and functional way.",
       "web": "https://ajimenezholguin.github.io/Swipe/",
@@ -37,7 +37,7 @@
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/bookIt.png",
       "title": "Hotels-JS",
       "description": "Construction of an online reservation platform, facilitating hotel reservations and availability in real time.",
       "web": "https://ajimenezholguin.github.io/Hotels/",
@@ -45,7 +45,7 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/BookitReact.png",
       "title": "Hotels React js",
       "description": "Construction of an online reservation platform, facilitating hotel reservations and availability in real time.",
       "web": "https://hotels-react-next.vercel.app/",
